@@ -17,11 +17,11 @@ Give me some money💰💰💰💰💰💰💰💰💰.
 <br>
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark)](https://github.com/CaseyNelson314)
 
 
 ## *Language📚*
 
 C++, Python, HTML, CSS, JavaScript 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyNelson314&layout=compact&bg_color=0,afeeee,87cefa&title_color=191970&text_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyNelson314&layout=compact&bg_color=0,afeeee,87cefa&title_color=191970&text_color=000000)](https://github.com/CaseyNelson314)
