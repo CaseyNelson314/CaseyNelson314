@@ -2,6 +2,11 @@
 <h2 align="center">Hi there! 👋</h2>
 
 <p align = "center">
+ 
+ <a href="https://github.com/CaseyNelson314">
+  <img align="center" src="https://user-images.githubusercontent.com/91818705/143222117-36ad5307-daa9-49a3-bf8a-859e03143c95.png" />
+ </a>
+ 
  <a href="https://github.com/CaseyNelson314">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=0,afeeee,87cefa&title_color=191970&text_color=000" />
  </a>
@@ -41,5 +46,7 @@
 <p align = "center">
  <a href="https://github.com/CaseyNelson314">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyNelson314&layout=compact&bg_color=0,afeeee,87cefa&title_color=191970&text_color=000000" />
- </a>
+ </a>![143220649-fb5e8787-68ff-4842-b2cf-1a9723d7e1a9](https://user-images.githubusercontent.com/91818705/143220747-e70d3572-d4df-499e-b606-558862809210.jpg)
+![143220649-fb5e8787-68ff-4842-b2cf-1a9723d7e1a9](https://user-images.githubusercontent.com/91818705/143220847-6e2984fb-16ef-4eb1-b9f6-7172ba1c8697.jpg)
+
 </p>
