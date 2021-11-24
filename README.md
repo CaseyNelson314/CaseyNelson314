@@ -1,7 +1,5 @@
-
-# CaseyNelson314
-
-## *Hi there! 👋*
+<h1 align="center">CaseyNelson314</h1>
+<h2 align="center">Hi there! 👋</h2>
 
 <p align = "center">
   <a href="https://github.com/CaseyNelson314">
@@ -26,7 +24,7 @@
 </a>
 </p>
 
-## Language📚
+<h2 align="center">Language📚</h2>
 
 <p align = "center">
 <a href="https://github.com/CaseyNelson314">
