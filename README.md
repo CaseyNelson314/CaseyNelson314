@@ -18,19 +18,6 @@
   </a>
 </p>
 
-
-<p align="center"> <!--SnsData-->
-  <a href="http://twitter.com/Casey_NeIson">
-    <img height="25" src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=flat&color=blue">
-  </a>
-  <a href="https://github.com/CaseyNelson314">
-    <img height="25" src="https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=flat&color=blue">
-  </a>
-  <a href="https://github.com/CaseyNelson314">
-    <img height="25" src="https://komarev.com/ghpvc/?username=CaseyNelson314&color=blue">
-  </a>
-</p>
- 
  
 <p align = "center"> <!--Repositories-->
   <a href="https://github.com/CaseyNelson314/Arduino">
@@ -51,3 +38,17 @@
     <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Encoder" />
   </a>
 </p>
+
+
+<p align="center"> <!--SnsData-->
+  <a href="http://twitter.com/Casey_NeIson">
+    <img height="25" src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=flat&color=blue">
+  </a>
+  <a href="https://github.com/CaseyNelson314">
+    <img height="25" src="https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=flat&color=blue">
+  </a>
+  <a href="https://github.com/CaseyNelson314">
+    <img height="25" src="https://komarev.com/ghpvc/?username=CaseyNelson314&color=blue">
+  </a>
+</p>
+ 
