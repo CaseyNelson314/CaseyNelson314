@@ -4,7 +4,7 @@
 <p align = "center">
  
  <a href="https://github.com/CaseyNelson314">
-  <img align="center" src="https://user-images.githubusercontent.com/91818705/143222117-36ad5307-daa9-49a3-bf8a-859e03143c95.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/91818705/143383098-3eaf2519-161f-41dc-b543-a369be7496b1.png" />
  </a>
  
  <a href="https://github.com/CaseyNelson314">
