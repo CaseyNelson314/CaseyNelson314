@@ -20,10 +20,10 @@
 
 
 <p align="center"> <!--SnsData-->
-  <a href="http://twitter.com/Casey_NeIson">
+  <a href="https://github.com/CaseyNelson314">
     <img height="25" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
   </a>
-  <a href="http://twitter.com/Casey_NeIson">
+  <a href="https://github.com/CaseyNelson314">
     <img height="25" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
   </a>
   <a href="http://twitter.com/Casey_NeIson">
