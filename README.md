@@ -4,17 +4,17 @@
 
 <p align = "center"> <!--language-->
   <a href="https://github.com/CaseyNelson314">
-   <img align="center" height="190" width ="483.5" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
+   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
   </a>
   <a href="https://github.com/CaseyNelson314">
-   <img align="center" height="190" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
+   <img align="center" height="150" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
   </a>
 </p>
 
 
 <p align = "center"> <!--trophy-->
   <a href="https://github.com/CaseyNelson314">
-   <img align="center" width ="815" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true">
+   <img align="center" width ="645" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true">
   </a>
 </p>
 
@@ -40,11 +40,11 @@
  
 <p align = "center"> <!--Repositories-->
   <a href="https://github.com/CaseyNelson314/Arduino">
-    <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Arduino">
+    <img align="center" width ="310" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Arduino">
   </a>
  
   <a href="https://github.com/CaseyNelson314/MoterDrive">
-    <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=MoterDrive" />
+    <img align="center" width ="310" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=MoterDrive" />
   </a>
 </p>
 
