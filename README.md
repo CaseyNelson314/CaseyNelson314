@@ -15,7 +15,7 @@
  <br>
  
  <a href="https://github.com/CaseyNelson314">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true" />
  </a>
   
  <br>
