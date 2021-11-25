@@ -4,10 +4,10 @@
 
 <p align = "center"> <!--language-->
   <a href="https://github.com/CaseyNelson314">
-   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
+   <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
   </a>
   <a href="https://github.com/CaseyNelson314">
-   <img align="center" height="175" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
+   <img align="center" height="190" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
   </a>
 </p>
 
