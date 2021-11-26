@@ -13,8 +13,12 @@
 
 
 <p align="center"> <!--SnsData-->
-  <img height="25" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
-  <a href="http://twitter.com/Casey_NeIson"><img height="25" src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=flat&color=blue"></a>
+  <a href="https://www.microsoft.com/ja-jp/software-download/windows11">
+     <img height="25" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
+  </a>
+  <a href="http://twitter.com/Casey_NeIson">
+     <img height="25" src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=flat&color=blue">
+  </a>
   <img height="25" src="https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=flat&color=blue">
   <img height="25" src="https://komarev.com/ghpvc/?username=CaseyNelson314&color=blue">
 </p>
