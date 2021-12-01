@@ -27,20 +27,18 @@
  
 <p align = "center"> <!--Repositories-->
   <a href="https://github.com/CaseyNelson314/Arduino">
-    <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Arduino">
+    <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Arduino">
   </a>
  
   <a href="https://github.com/CaseyNelson314/MoterDrive">
-    <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=MoterDrive" />
+    <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=MoterDrive" />
   </a>
-</p>
 
-<p align = "center"> <!--Repositories-->
-  <a href="https://github.com/CaseyNelson314/Variable-control">
-    <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Variable-control" />
+   <a href="https://github.com/CaseyNelson314/Variable-control">
+    <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Variable-control" />
   </a>
  
   <a href="https://github.com/CaseyNelson314/Encoder">
-    <img align="center" width ="405" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Encoder" />
+    <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Encoder" />
   </a>
 </p>
