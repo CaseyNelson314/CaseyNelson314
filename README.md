@@ -3,13 +3,13 @@
 
 
 <p align = "center"> <!--language-->
-   <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
-   <img align="center" height="190" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
+   <img align="center" height="190.5" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
+   <img align="center" height="190.5" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
 </p>
 
 
 <p align = "center"> <!--trophy-->
-   <img align="center" width ="815" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true">
+   <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true">
 </p>
 
 
