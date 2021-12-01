@@ -38,7 +38,7 @@
     <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Variable-control" />
   </a>
  
-  <a href="https://github.com/CaseyNelson314/Encoder">
-    <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Encoder" />
+  <a href="https://github.com/CaseyNelson314/Othello">
+    <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,dda0dd,87cefa&title_color=191970&text_color=000&repo=Othello">
   </a>
 </p>
