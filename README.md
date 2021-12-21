@@ -54,8 +54,8 @@
       <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Arduino">
    </a>
  
-   <a href="https://github.com/CaseyNelson314/MoterDrive">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=MoterDrive" />
+   <a href="https://github.com/CaseyNelson314/Encoder">
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Encoder" />
    </a>
 
    <a href="https://github.com/CaseyNelson314/Variable-control">
