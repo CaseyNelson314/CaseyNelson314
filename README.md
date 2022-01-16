@@ -3,10 +3,9 @@
 
 
 <p align = "center"> <!--language-->
-    <img align="center" height="190.5" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,afeeee,87cefa&title_color=191970&text_color=000">
-    <img align="center" height="190.5" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&bg_color=100,afeeee,87cefa&title_color=191970&card_width=400&text_color=000000">
+    <img align="center" height="190.5" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,1a1a1a,464646&title_color=fff&text_color=fff">
+    <img align="center" height="190.5" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=fff&text_color=fff">
 </p>
-
 
 <p align = "center"> <!--trophy-->
     <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true">
@@ -55,11 +54,11 @@
    </a>
  
    <a href="https://github.com/CaseyNelson314/Encoder">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Encoder" />
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Encoder">
    </a>
 
    <a href="https://github.com/CaseyNelson314/Variable-control">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Variable-control" />
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Variable-control">
    </a>
  
    <a href="https://github.com/CaseyNelson314/Othello">
