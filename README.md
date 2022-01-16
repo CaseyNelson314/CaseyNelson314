@@ -3,8 +3,8 @@
 
 
 <p align = "center"> <!--language-->
-    <img align="center" height="190.5" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
-    <img align="center" height="190.5" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
+    <img align="center" height="190.5" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
+    <img align="center" height="190.5" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=Assembly,Makefile,Arduino,Batchfile&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
 </p>
 
 <p align = "center"> <!--trophy-->
@@ -50,18 +50,18 @@
 
 <p align = "center"> <!--Repositories-->
    <a href="https://github.com/CaseyNelson314/Easy_Led_Controller">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Easy_Led_Controller">
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Easy_Led_Controller">
    </a>
  
    <a href="https://github.com/CaseyNelson314/Encoder">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Encoder">
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Encoder">
    </a>
 
    <a href="https://github.com/CaseyNelson314/Variable-control">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Variable-control">
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Variable-control">
    </a>
  
    <a href="https://github.com/CaseyNelson314/Othello">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&bg_color=50,afeeee,87cefa&title_color=191970&text_color=000&repo=Othello">
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Othello">
    </a>
 </p>
