@@ -49,8 +49,8 @@
 <h2 align="center">Repositories</h2>
 
 <p align = "center"> <!--Repositories-->
-   <a href="https://github.com/CaseyNelson314/Easy_Led_Controller">
-      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Easy_Led_Controller">
+   <a href="https://github.com/CaseyNelson314/SerialLED">
+      <img align="center" width ="405" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=SerialLED">
    </a>
  
    <a href="https://github.com/CaseyNelson314/Encoder">
