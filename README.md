@@ -7,10 +7,11 @@
     <img align="center" height="190.5" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
 </p>
 
-<p align = "center"> <!--trophy-->
-    <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true&row=1&column=6">
-</p>
 
+
+<p align = "center"> <!--trophy-->
+    <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true&row=1&column=6&margin-w=4&no-bg=true">
+</p>
 
 <p align="center"> <!--SnsData-->
    <!--windows-->
