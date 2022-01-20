@@ -8,7 +8,7 @@
 </p>
 
 <p align = "center"> <!--trophy-->
-    <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true">
+    <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=monokai&no-frame=true&row=1&column=6">
 </p>
 
 
