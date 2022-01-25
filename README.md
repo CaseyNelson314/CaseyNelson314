@@ -48,10 +48,8 @@
  
  
 <h2><details align="center" open>
-    
- <br>
-    
  <summary>Repositories</summary>
+ <br>
 
 <p align = "center"> <!--Repositories-->
    <a href="https://github.com/CaseyNelson314/SerialLED">
