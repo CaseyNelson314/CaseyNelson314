@@ -16,33 +16,33 @@
 <p align="center"> <!--SnsData-->
    <!--windows-->
    <a href="https://www.microsoft.com/ja-jp/software-download/windows11">
-      <img height="30" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
+      <img height="25" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
    </a>
    
    <!--twitter-->
    <a href="http://twitter.com/Casey_NeIson">
-      <img height="30" src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=flat&color=blue">
+      <img height="25" src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=flat&color=blue">
    </a>
    
    <!--follow-->
-   <img height="30" src="https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=flat&color=blue">
+   <img height="25" src="https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=flat&color=blue">
    
    <!--profile view-->
-   <img height="30" src="https://komarev.com/ghpvc/?username=CaseyNelson314&color=blue">
+   <img height="25" src="https://komarev.com/ghpvc/?username=CaseyNelson314&color=blue">
    
    <!--C-->
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img width="30" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    </a>
    
    <!--C++-->
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+      <img width="30" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    </a>
    
    <!--Python-->
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img width="30" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </a>
 </p>
  
