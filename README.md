@@ -47,7 +47,7 @@
 </p>
  
 <!--Repositories-->
-<h2><details align="center" open>
+<h2 align="center"><details open>
  <summary>Repositories</summary>
  <br>
 
