@@ -9,7 +9,6 @@
     <img align="center" width="32.3%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
 </p>
 
-    50:33.7
 
 <p align = "center"> <!--trophy-->
     <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true&row=1&column=6&margin-w=5&no-bg=true">
