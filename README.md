@@ -11,7 +11,7 @@
 
 
 <p align = "center"> <!--trophy-->
-    <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true&row=1&column=6&margin-w=5&no-bg=true">
+    <img align="center" width ="80.6%" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true&row=1&column=6&margin-w=5&no-bg=true">
 </p>
 
 <p align="center"> <!--SnsData-->
