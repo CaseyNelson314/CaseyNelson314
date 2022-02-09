@@ -8,7 +8,6 @@
 </p>
 
 
-
 <p align = "center"> <!--trophy-->
     <img align="center" width ="814.5" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true&row=1&column=6&margin-w=5&no-bg=true">
 </p>
@@ -29,12 +28,7 @@
    
    <!--profile view-->
    <img height="25" src="https://komarev.com/ghpvc/?username=CaseyNelson314&color=blue">
-   
-   <!--C-->
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img width="30" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   </a>
-   
+
    <!--C++-->
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img width="30" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
