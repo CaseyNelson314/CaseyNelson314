@@ -21,18 +21,15 @@
    <a href="https://github.com/CaseyNelson314/SerialLED">
       <img align="center" width ="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=SerialLED">
    </a>
- 
+	 
    <a href="https://github.com/CaseyNelson314/Encoder">
       <img align="center" width ="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Encoder">
    </a>
- </p>
-	
- <p align = "center">
-
+	 
    <a href="https://github.com/CaseyNelson314/Variable-control">
       <img align="center" width ="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Variable-control">
    </a>
- 
+	 
    <a href="https://github.com/CaseyNelson314/Othello">
       <img align="center" width ="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=100,3c3c3c,464646&title_color=87cefa&text_color=fff&repo=Othello">
    </a>
