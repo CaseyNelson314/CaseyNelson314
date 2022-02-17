@@ -4,7 +4,7 @@
 
 <p align = "center"> <!--language-->
     <img align="center" width="53.9%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
-    <img align="center" width="36.1%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
+    <img align="center" width="36.3%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=100,1a1a1a,464646&title_color=87cefa&text_color=fff">
 </p>
 
 
