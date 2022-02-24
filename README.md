@@ -10,7 +10,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?color=87cefa&username=CaseyNelson314&theme=react-dark&hide_border=true&area=true)
 
 <p align = "center"> <!--trophy-->
-    <img align="center" width ="90%" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onestar&no-frame=true&row=1&column=6&margin-w=5&no-bg=true">
+    <img align="center" width ="90%" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark&no-frame=true&row=1&column=6&margin-w=5&no-bg=true">
 </p>
 
 <!--Repositories-->
@@ -40,13 +40,14 @@
 
 <p align="center"> <!--SnsData-->   <!--windows-->
    <a href="https://www.microsoft.com/ja-jp/software-download/windows11">
-   <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge">
    </a>
 
    <!--twitter-->
    <a href="http://twitter.com/Casey_NeIson">
-   <img src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=for-the-badge&color=blue">
+    <img src="https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=for-the-badge&color=blue">
    </a>
+	
    <!--follow-->
    <img src="https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=for-the-badge&color=blue">
 
