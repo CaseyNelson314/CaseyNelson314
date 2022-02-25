@@ -3,8 +3,8 @@
 ![](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE+!!👋;MY+NAME+===+CASEY_NELSON.;I+LOVE+CPP+ON+ARDUINO;IF(LOOK+AT+PROFILE)FOLLOW+ME+♡♡;THNX:%29)
 
 <p align="center"> <!--language-->
-    <img width="59.1%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff">
-    <img width="39.8%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
+    <img width="59.0%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff">
+    <img width="39.7%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?color=87cefa&username=CaseyNelson314&theme=react-dark&hide_border=true&area=true)
