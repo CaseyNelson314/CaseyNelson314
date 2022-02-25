@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Casey Nelson&fontSize=30&fontColor=eee&animation=fadeIn&fontAlignY=35">
 
-![](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!👋;I%27M+CASEY_NELSON.;I+LOVE+CPP+AND+ARDUINO;THNX:%29)
+![](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!👋;MY+NAME+===+CASEY_NELSON.;I+LOVE+CPP+ON+ARDUINO;IF(LOOK+AT+PROFILE)FOLLOW+ME+♡♡;THNX:%29)
 
 <p align = "center"> <!--language-->
     <img width="53.9%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff">
