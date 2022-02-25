@@ -1,22 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Casey Nelson&fontSize=30&fontColor=eee&animation=fadeIn&fontAlignY=35">
+<img width=90% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Casey Nelson&fontSize=30&fontColor=eee&animation=fadeIn&fontAlignY=35">
 
 ![](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE+!!👋;MY+NAME+===+CASEY_NELSON.;I+LOVE+CPP+ON+ARDUINO;IF(LOOK+AT+PROFILE)FOLLOW+ME+♡♡;THNX:%29)
 
-<p align = "center"> <!--language-->
-    <img width="53.9%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff">
-    <img width="36.3%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
+<p align="center"> <!--language-->
+    <img width="59.4%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff">
+    <img width="40%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?color=87cefa&username=CaseyNelson314&theme=react-dark&hide_border=true&area=true)
 
 <!--trophy-->
-<p align = "center"><img align="center" width ="90%" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark&no-frame=true&row=1&column=6&margin-w=5&no-bg=true"></p>
+<p align="center"><img align="center" width ="90%" src="https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark&no-frame=true&row=1&column=6&margin-w=5&no-bg=true"></p>
 
 <!--Repositories-->
 <h1 align="center"><details>
  <summary>Repositories</summary>
  <br>
- <p align = "center">
+ <p align="center">
    <a href="https://github.com/CaseyNelson314/SerialLED">        <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=SerialLED">        </a>
    <a href="https://github.com/CaseyNelson314/Encoder">          <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Encoder">          </a>
    <a href="https://github.com/CaseyNelson314/Variable-control"> <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Variable-control"> </a>
