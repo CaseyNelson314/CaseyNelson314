@@ -1,4 +1,4 @@
-<img width=90% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Casey Nelson&fontSize=30&fontColor=eee&animation=fadeIn&fontAlignY=35">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Casey Nelson&fontSize=30&fontColor=eee&animation=fadeIn&fontAlignY=35">
 
 ![](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE+!!👋;MY+NAME+===+CASEY_NELSON.;I+LOVE+CPP+ON+ARDUINO;IF(LOOK+AT+PROFILE)FOLLOW+ME+♡♡;THNX:%29)
 
