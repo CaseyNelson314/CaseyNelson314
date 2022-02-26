@@ -22,10 +22,10 @@
 
  </details></h1>
 
- [![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)]()
+ [![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)](https://github.com/CaseyNelson314)
  [![twitter](https://img.shields.io/twitter/follow/Casey_NeIson?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](http://twitter.com/Casey_NeIson)
- [![follow ](https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=for-the-badge&color=blue)]()
- [![view   ](https://komarev.com/ghpvc/?username=CaseyNelson314&style=for-the-badge&color=blue)]()
+ [![follow ](https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=for-the-badge&color=blue)](https://github.com/CaseyNelson314)
+ [![view   ](https://komarev.com/ghpvc/?username=CaseyNelson314&style=for-the-badge&color=blue)](https://github.com/CaseyNelson314)
    
 </div>
 
