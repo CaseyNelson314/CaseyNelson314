@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Casey Nelson&fontSize=30&fontColor=eee&animation=fadeIn&fontAlignY=35">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Hi👋 I'm Casey Nelson&fontSize=40&fontColor=eee&animation=fadeIn&fontAlignY=35">
 
 
 <div align="center">
