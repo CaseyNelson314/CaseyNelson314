@@ -15,10 +15,10 @@
  <h1><details>
  <summary>Repositories</summary><br>
 
+ [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=SerialMonitor_Qt)](https://github.com/CaseyNelson314/SerialMonitor_Qt)
  [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=SerialLED)](https://github.com/CaseyNelson314/SerialLED)
- [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Encoder)](https://github.com/CaseyNelson314/Encoder)
- [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Tetris)](https://github.com/CaseyNelson314/Tetris)
- [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Othello)](https://github.com/CaseyNelson314/Othello)
+ [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Window_Manager)](https://github.com/CaseyNelson314/Window_Manager)
+ [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Othello_Prosessing)](https://github.com/CaseyNelson314/Othello_Prosessing)
 
  </details></h1>
 
