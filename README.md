@@ -12,6 +12,9 @@
  ![graph ](https://activity-graph.herokuapp.com/graph?color=87cefa&username=CaseyNelson314&theme=react-dark&hide_border=true&area=true)
  ![trophy](https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true)
 
+ 
+  
+ <!--
  <h1><details>
  <summary>Repositories</summary><br>
 
@@ -21,6 +24,7 @@
  [![Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=CaseyNelson314&hide_border=true&bg_color=0d1117&title_color=87cefa&text_color=fff&repo=Othello_Prosessing)](https://github.com/CaseyNelson314/Othello_Prosessing)
 
  </details></h1>
+ -->
 
  [![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)](https://github.com/CaseyNelson314)
  [![C++    ](https://img.shields.io/badge/C%2B%2B-0078D6?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/CaseyNelson314)
