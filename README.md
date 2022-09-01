@@ -7,12 +7,11 @@
 
  <!--Rank-->
  <img width="59.0%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87cefa&icon_color=87cefa&text_color=fff">
- <img width="39.7%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
+ <img width="39.7%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CaseyNelson314&hide_border=true&hide=&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
   
  ![graph ](https://activity-graph.herokuapp.com/graph?color=87cefa&username=CaseyNelson314&theme=react-dark&hide_border=true&area=true)
  ![trophy](https://github-profile-trophy.vercel.app/?username=CaseyNelson314&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true)
-
- 
+  
   
  <!--
  <h1><details>
@@ -25,6 +24,7 @@
 
  </details></h1>
  -->
+ 
 
  [![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)](https://github.com/CaseyNelson314)
  [![C++    ](https://img.shields.io/badge/C%2B%2B-0078D6?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/CaseyNelson314)
