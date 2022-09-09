@@ -26,7 +26,7 @@
  -->
  
 
- [![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)](https://github.com/CaseyNelson314)
+ [![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)](https://www.microsoft.com/en-us/windows/windows-11?r=1)
  [![C++    ](https://img.shields.io/badge/C%2B%2B-0078D6?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/CaseyNelson314)
  [![follow ](https://img.shields.io/github/followers/CaseyNelson314?label=follow&logo=github&style=for-the-badge&color=0078D6)](https://github.com/CaseyNelson314)
  [![view   ](https://komarev.com/ghpvc/?username=CaseyNelson314&style=for-the-badge&color=0078D6)](https://github.com/CaseyNelson314)
