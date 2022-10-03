@@ -2,7 +2,7 @@
 
 <div align="center">
 
- ![SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=1000&lines=EVERY DAY SLEEPING😴)
+ ![SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=1000&lines=EVERY+DAY+SLEEPING😴)
  
  <!--Rank
  <img width="59.0%" src="https://github-readme-stats.vercel.app/api?username=CaseyNelson314&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87cefa&icon_color=87cefa&text_color=fff">
